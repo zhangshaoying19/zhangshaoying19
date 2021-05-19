@@ -1,5 +1,5 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-<img width="35%" align="right" alt="Github" src="http://resource.muyiy.cn/image/javascript.gif" />
+
 
 <h2> Hey there! I'm zhangshaoying19.</h2>
 
@@ -47,7 +47,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-
+  <img width="35%" align="right" alt="Github" src="http://resource.muyiy.cn/image/javascript.gif" />
 <a href="https://github.com/zhangshaoying19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhangshaoying19&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshaoying19&theme=buefy&layout=compact" />
