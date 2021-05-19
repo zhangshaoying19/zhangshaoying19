@@ -47,8 +47,8 @@
 
 <br/>
 <a href="https://github.com/zhangshaoying19">
-  <img height="150em" alt="github" align="right" src="http://resource.muyiy.cn/image/javascript.gif" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zhangshaoying19&theme=tokyonight&show_icons=true" />
+  <img height="150em" src="http://resource.muyiy.cn/image/javascript.gif" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshaoying19&theme=buefy&layout=compact" />
 </a>
 
