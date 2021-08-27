@@ -45,7 +45,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=09C2F0)
-  ![HBuilder](https://img.shields.io/badge/-HBuilder-333333?style=flat&logo=h-builder&logoColor=2ECC71)
+  ![HBuilder](https://img.shields.io/badge/-HBuilder-333333?style=flat&logo=h-builder-x&logoColor=2ECC71)
 
 <br/>
 <a href="https://github.com/zhangshaoying19">
