@@ -51,7 +51,7 @@
 <br/>
 <a href="https://github.com/zhangshaoying19">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zhangshaoying19&theme=tokyonight&show_icons=true" />
-  <img height="150em" src="https://s2.xptou.com/2023/05/09/6459ef543025b.gif" />
+  <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=zhangshaoying19&theme=xcode" /> </div>
 </a>
 <br/>
 <!--
