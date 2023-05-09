@@ -53,7 +53,7 @@
 
 <div>
   <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=zhangshaoying19&theme=tokyonight&show_icons=true" />
-  <img height="150em" align="center" src="https://cdn.jsdelivr.net/gh/zhangshaoying19/zhangshaoying19/assets/images/javascript.gif" />
+  <img height="150em" align="center" src="https://cdn.jsdelivr.net/gh/zhangshaoying19/zhangshaoying19/assets/javascript.gif" />
   <img height="150em" align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </div>
 
