@@ -3,7 +3,7 @@
 <h2> Hey there! I'm 奇山流云.<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Happy Day!&center=true&size=27" alt="Typing SVG" />
 </h2>
 
-<h3> 👨🏻‍💻 &nbsp;<a href="">About Me.</a> </h3>
+<h3> 👨🏻‍💻 &nbsp;<a href="https://github.com/zhangshaoying19">About Me.</a> </h3>
 
 <!--
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -50,10 +50,12 @@
   ![HBuilder](https://img.shields.io/badge/-HBuilder-333333?style=flat&logo=h-builder-x&logoColor=2ECC71)
 
 <br/>
-<a href="https://github.com/zhangshaoying19">
+
+<div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zhangshaoying19&theme=tokyonight&show_icons=true" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-</a>
+  <img height="150em" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</div>
+
 <br/>
 <!--
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
