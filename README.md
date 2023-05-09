@@ -51,7 +51,7 @@
 <br/>
 <a href="https://github.com/zhangshaoying19">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zhangshaoying19&theme=tokyonight&show_icons=true" />
-  <img height="150em" src="http://resource.muyiy.cn/image/javascript.gif" />
+  <img height="150em" src="https://cdn.jsdelivr.net/gh/zhangshaoying19/zhangshaoying19/assets/javascript.gif" />
 </a>
 <br/>
 <!--
