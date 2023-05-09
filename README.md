@@ -1,6 +1,7 @@
 <img height="160em" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h2> Hey there! I'm 奇山流云.</h2>
+<h2> Hey there! I'm 奇山流云.<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Happy Day!&center=true&size=27" alt="Typing SVG" />
+</h2>
 
 <h3> 👨🏻‍💻 &nbsp;<a href="">About Me.</a> </h3>
 
