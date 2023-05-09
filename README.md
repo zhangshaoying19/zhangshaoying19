@@ -63,5 +63,5 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zhangshaoying19/count.svg" />
-  ![](https://raw.githubusercontent.com/zhangshaoying19/zhangshaoying19/main/assets/github-contribution-grid-snake.svg)
+  ![](https://github/zhangshaoying19/zhangshaoying19/main/assets/github-contribution-grid-snake.svg)
 </p>
