@@ -51,7 +51,7 @@
 <br/>
 <a href="https://github.com/zhangshaoying19">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zhangshaoying19&theme=tokyonight&show_icons=true" />
-  <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=zhangshaoying19&theme=xcode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Happy Day!&center=true&size=27" alt="Typing SVG" />
 </a>
 <br/>
 <!--
